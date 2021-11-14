@@ -43,15 +43,14 @@ Its formating sucks but i did not understand how to fix it. Feel free to commit 
 * [linguae](https://stalikez.info/) dev, thanks for him too
 * DictionaryConverter dev, don't even know who is he but thanks for him
 * [Yawipa](https://github.com/wswu/yawipa) developers, i took the parsed enwikitionary file from them, here is their paper that they've asked to cite:
-> @inproceedings{wu-yarowsky-2020-yawipa,
->   title = "Computational Etymology and Word Emergence",
->   author = "Wu, Winston and Yarowsky, David",
->   booktitle = "Proceedings of The 12th Language Resources and Evaluation Conference",
->   month = may,
->   year = "2020",
->   address = "Marseille, France",
->   publisher = "European Language Resources Association",
->   url = "https://www.aclweb.org/anthology/2020.lrec-1.397",
+
+> Computational Etymology and Word Emergence
+> Wu, Winston and Yarowsky, David
+> Proceedings of The 12th Language Resources and Evaluation Conference
+> may 2020
+> Marseille, France
+> European Language Resources Association
+> https://www.aclweb.org/anthology/2020.lrec-1.397
 >
 
 Finally, sorry for the bad english, i am russian. Hope yoou've found that helpful!
