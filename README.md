@@ -45,11 +45,17 @@ Its formating sucks but i did not understand how to fix it. Feel free to commit 
 * [Yawipa](https://github.com/wswu/yawipa) developers, i took the parsed enwikitionary file from them, here is their paper that they've asked to cite:
 
 > Computational Etymology and Word Emergence
+> 
 > Wu, Winston and Yarowsky, David
+> 
 > Proceedings of The 12th Language Resources and Evaluation Conference
+> 
 > may 2020
+> 
 > Marseille, France
+> 
 > European Language Resources Association
+> 
 > https://www.aclweb.org/anthology/2020.lrec-1.397
 >
 
