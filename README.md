@@ -1,20 +1,20 @@
 # PB_dictionaries_tutorial
-A generic tutorial for how to convert different dictionaries for PocketBook
+A generic tutorial for how to convert different dictionaries for PocketBook electronic readers
 
 ## This is not an official guide and it will not probably ever be updated!
-So I apologise in advance if it did not work for you
+So I apologise in advance if it did not work for you, but it has worked for me 13.11.2021
 
 All actions were performed on Linux, however this guide should probably work for Windows too.
 
 ## What you will need
 
+* Readiness for failure and the ability to read error messages
 * Python3 and Python2 installed, and also a python-tk package
 * Wine if you use linux
 * [pyglossary](https://github.com/ilius/pyglossary) Universal tool for dictionary conversion, **however, does not work with all formats, make sure yours is supported for read**
 * [linguae](https://linguae.stalikez.info/dwnld.php) tool, .deb package did not work for me, but you can run a cross-platform python2 version (third link)
 * DictionaryConverter [new version](http://www.mobileread.com/forums/attachment.php?attachmentid=42342&d=1262456131), [old version](http://www.mobileread.com/forums/attachment.php?attachmentid=40885&d=1260265451). Do not be frightened that it is .exe, it works just fine with wine. (I used the new one but i'll leave old one too just in case)
 * The dictionary that you want to convert in any appropriate format
-* Readiness for failure and ability to read error messages
 
 ## What to do
 
@@ -53,3 +53,5 @@ Its formating sucks but i did not understand how to fix it. Feel free to commit 
 >   publisher = "European Language Resources Association",
 >   url = "https://www.aclweb.org/anthology/2020.lrec-1.397",
 >
+
+Finally, sorry for the bad english, i am russian. Hope yoou've found that helpful!
